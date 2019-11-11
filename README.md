@@ -1,4 +1,6 @@
-# Databricks-notebooks for Learning
+#  Databricks-notebooks for Learning  <img  align ="right" width="130" src="https://devclass.com/wp-content/uploads/2018/11/databricks-logo.jpg"> 
+
+
 
 | File name     | Description   |
 | ------------- | ------------- |
