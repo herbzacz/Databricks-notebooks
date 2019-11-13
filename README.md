@@ -12,5 +12,6 @@
 | [ETL Part1 Data Extraction](https://github.com/herbzacz/Databricks-notebooks/tree/master/notebooks) | Extract, Transform & Load with Databricks - Part 1 |
 | [ETL Part2 Data Extraction](https://github.com/herbzacz/Databricks-notebooks/tree/master/notebooks) | Extract, Transform & Load with Databricks - Part 2 |
 | **Databricks Bootcamps** | 
-| [Databricks Bootcamp Munich Nov19](https://github.com/herbzacz/Databricks-notebooks/tree/master/notebooks) | Databricks Basics, Azure KeyVault, Deltalake, Structured Streaming, CI/CD on Azure, SQL Datawarehouse, Cosmos DB | 
+| [Partner Bootcamp Munich Nov19](https://github.com/herbzacz/Databricks-notebooks/tree/master/notebooks) | Databricks Basics, Azure KeyVault, Deltalake, Structured Streaming, CI/CD on Azure, SQL Datawarehouse, Cosmos DB | 
 | [EventHubs in Databricks](https://github.com/herbzacz/Databricks-notebooks/tree/master/notebooks) | Use Case with Azure Event Hubs |
+| [Partner Bootcamp Vienna Oct19](https://github.com/herbzacz/Databricks-notebooks/tree/master/notebooks) | Data Preparation, Azure Container Instance, Azure Kubernetes Service | 
